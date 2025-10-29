@@ -47,7 +47,7 @@ Run the `run.sh`
 ## 🎉 Result
 **Input image:**
 
-![](test-image.png)
+![](input.png)
 
 **Output:**
 
