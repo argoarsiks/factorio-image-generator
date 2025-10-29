@@ -42,7 +42,7 @@ Run the `run.sh`
 
 1. Run the app and enter the path to your image (32x32 max)
 2. Copy the blueprint string
-3. Past the string in to the game
+3. Insert the string in to the game
 
 ## 🎉 Result
 **Input image:**
