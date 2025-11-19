@@ -6,7 +6,7 @@ A Python tool that converts images into Factorio blueprints, allowing you to rec
 ## 🛠️ Installation
 1. **Clone this repository:**
 ```bash
-git clone https://github.com/yourusername/factorio-image-converter.git
+git clone https://github.com/argoarsiks/factorio-image-converter.git
 cd factorio-image-converter
 ```
 
