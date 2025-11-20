@@ -1,5 +1,5 @@
 ![Python](https://img.shields.io/badge/Python-3.10%2B-blue)
-# Image to Factorio Blueprint Converter
+# Image to Factorio Blueprint
 
 A Python tool that converts images into Factorio blueprints, allowing you to recreate pictures in-game using colored lamps.
 
